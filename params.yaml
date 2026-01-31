@@ -5,7 +5,7 @@ train:
   dropout_rate: 0.3
   epochs: 100
   batch_size: 16
-  random_seed: 42
+  random_seed: 24
 
 preprocess_data:
   test_size: 0.2
