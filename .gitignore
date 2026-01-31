@@ -140,4 +140,5 @@ models/*.keras
 metrics/*.json
 
 # DVC files
-.dvc
+.dvc/cache
+.dvc/tmp
