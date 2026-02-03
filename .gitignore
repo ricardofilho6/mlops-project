@@ -142,3 +142,6 @@ metrics/*.json
 # DVC files
 .dvc/cache
 .dvc/tmp
+
+# MLFlow
+mlruns/
