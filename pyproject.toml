@@ -16,7 +16,8 @@ dependencies = [
     "PyYAML==6.0.2",
     "scikit-learn==1.6.1",
     "tensorflow==2.19.0",
-    "mlflow==3.8.1"
+    "mlflow==3.8.1",
+    "python-dotenv==1.2.0"
 ]
 
 [tool.setuptools.packages.find]
