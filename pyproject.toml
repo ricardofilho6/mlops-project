@@ -18,7 +18,8 @@ dependencies = [
     "tensorflow==2.19.0",
     "mlflow==3.8.1",
     "python-dotenv==1.2.0",
-    "dagshub==0.6.5"
+    "dagshub==0.6.5",
+    "apache-airflow==2.11.0"
 ]
 
 [tool.setuptools.packages.find]
